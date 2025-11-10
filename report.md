@@ -14,15 +14,8 @@ Form action:
 
 
 
-### 📱 Mobile View
-![Mobile layout of form](images/mobile_view.png)
-
-### 💻 Desktop View
-![Desktop layout of form](images/desktop_view.png)
-
-### ✅ W3C Validation
-![W3C Validation Result](images/css_validation.png)
-
-
-![W3C Validation Result](images/html_validation.png)
+![Desktop View](web_dev/images/desktop_view.png)
+![Mobile View](web_dev/images/mobile_view.png)
+![CSS Validation](web_dev/images/css_validation.png)
+![HTML Validation](web_dev/images/html_validation.png)
 

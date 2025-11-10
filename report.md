@@ -7,12 +7,7 @@ It changes layout depending on screen size:
 - **Over 600px** → two-column (desktop)
 
 Form action:
-```html
-<form action="https://postman-echo.com/post" method="post"></form>
-
-
-
-
+<Form action="https://postman-echo.com/post" method="post"></form>
 
 ![Desktop View](web_dev/images/desktop_view.png)
 ![Mobile View](web_dev/images/mobile_view.png)

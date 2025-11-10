@@ -8,7 +8,7 @@ It changes layout depending on screen size:
 
 Form action:
 ```html
-<form action="https://postman-echo.com/post" method="post">
+<form action="https://postman-echo.com/post" method="post"></form>
 
 
 

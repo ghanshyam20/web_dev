@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* General page setup */
 body {
   font-family: Arial, sans-serif;
@@ -90,3 +91,55 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+=======
+/* i have target body tag for font family so yeh it will set entire body thsi font*/
+body{
+    font-family: Arial, sans-serif;
+}
+
+
+/* i have target a tag to decorate its text and color  */
+a{
+    text-decoration: none;
+     color: rgb(37, 139, 0);
+
+}
+
+a:hover{
+    color: rgb(226, 43, 198);
+}
+
+/* i targeted img tag for image to make border and border radius */
+
+img{
+    border: 2px solid black;
+    border-radius: 100px;
+}
+
+/* i targed table to add this border, and width */
+
+
+table {
+      border: 1px solid;
+  border-collapse: collapse;  /* make table borders neat */
+  width: 50%;
+}
+
+/* i have target table head and table data to make changes */
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+ /* this will make change to table row in skipping row */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/*i have target ul for list items and make them to push left */
+
+ul {
+  list-style-type: none;
+  padding-left: 0;   
+}
+>>>>>>> origin/main

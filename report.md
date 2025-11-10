@@ -9,8 +9,7 @@ It changes layout depending on screen size:
 Form action:
 <Form action="https://postman-echo.com/post" method="post"></form>
 
-![Desktop View](web_dev/images/desktop_view.png)
-![Mobile View](web_dev/images/mobile_view.png)
-![CSS Validation](web_dev/images/css_validation.png)
-![HTML Validation](web_dev/images/html_validation.png)
-
+![Desktop View](images/desktop_view.png)
+![Mobile View](images/mobile_view.png)
+![CSS Validation](images/css_validation.png)
+![HTML Validation](images/html_validation.png)
